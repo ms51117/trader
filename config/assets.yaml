@@ -1,0 +1,30 @@
+assets:
+  - symbol: BTCUSDT
+    name: Bitcoin
+    timeframe: 4h
+    start_date: "2023-01-01"
+    weight: 0.3  # وزن در پرتفوی
+
+  - symbol: ETHUSDT
+    name: Ethereum
+    timeframe: 4h
+    start_date: "2023-01-01"
+    weight: 0.25
+
+  - symbol: BNBUSDT
+    name: Binance Coin
+    timeframe: 4h
+    start_date: "2023-01-01"
+    weight: 0.2
+
+  - symbol: SOLUSDT
+    name: Solana
+    timeframe: 4h
+    start_date: "2023-01-01"
+    weight: 0.15
+
+  - symbol: LINKUSDT
+    name: Chainlink
+    timeframe: 4h
+    start_date: "2023-01-01"
+    weight: 0.1
